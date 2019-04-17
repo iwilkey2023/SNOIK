@@ -1,7 +1,7 @@
 # SNOIK
 Created by Isaac Wilkey
 
-Contributions by Sean Shin
+Debugging and Contributions by Sean Shin
 
 SNOIK is a pygame version of a snake game.
 
